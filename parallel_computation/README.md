@@ -8,7 +8,5 @@
     - 2.2 应用：airline2.desc飞机月龄计算
 
 - 3. [lecture5_Sparse_Matrix.R](https://github.com/Snowing-ST/distributed_computation/blob/master/parallel_computation/lecture5_Sparse_Matrix.R)
-
     - 3.1 Matrix包的使用。用于稀疏矩阵的存储、计算
-    
-    - 3.2 应用：社交网络数据分析、文本数据处理
+    - 3.2 应用：社交网络数据分析、文本数据处理
