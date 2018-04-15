@@ -8,5 +8,6 @@ apply家族、foreach、R内存管理
     - bigmemory包的使用
 
 - [lecture5_Sparse_Matrix.R](https://github.com/Snowing-ST/distributed_computation/blob/master/parallel_computation/lecture5_Sparse_Matrix.R)
+
     - Matrix包的使用。用于稀疏矩阵的存储、计算。
     - 应用：社交网络数据分析、文本数据处理
