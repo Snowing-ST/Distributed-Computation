@@ -7,6 +7,6 @@
 
 读取csv数据，把它转化为spark中的labelpoint
 
--[pyspark_main.sh](https://github.com/Snowing-ST/distributed_computation/blob/master/pyspark/pyspark_main.sh)
+- [pyspark_main.sh](https://github.com/Snowing-ST/distributed_computation/blob/master/pyspark/pyspark_main.sh)
 
 向spark提交任务：spark-submit
